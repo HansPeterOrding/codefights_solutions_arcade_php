@@ -1,5 +1,5 @@
 # codefights_solutions_arcade_php
-All Codefights solutions for arcade mode (so far)
+All Codefights solutions for arcade mode written in php (so far)
 
 Currently solved:
 - Intro Gates (8/8)
