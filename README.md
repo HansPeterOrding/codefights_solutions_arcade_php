@@ -14,7 +14,10 @@ Currently in repo:
 - Intro Gates
 - At the Crossroads
 - Corner of 0s and 1s
+- Loop Tunnel
+- List Forest Edge
+- Labyrinth of Nested Loops
 
-I will shortly add the solutions of the other tasks and when I got time solve the next tasks.
+I will shortly solve the next tasks and add them.
 
 Please let me know if you got better (shorter) solutions!
