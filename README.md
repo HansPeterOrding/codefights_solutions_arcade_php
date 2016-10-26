@@ -8,7 +8,7 @@ Currently solved:
 - Loop Tunnel (10/10)
 - List Forest Edge (8/8)
 - Labyrinth of Nested Loops (8/8)
-- Book Market (0/8)
+- Book Market (8/8)
 
 Currently in repo:
 - Intro Gates
@@ -17,6 +17,7 @@ Currently in repo:
 - Loop Tunnel
 - List Forest Edge
 - Labyrinth of Nested Loops
+- Book Market
 
 I will shortly solve the next tasks and add them.
 
