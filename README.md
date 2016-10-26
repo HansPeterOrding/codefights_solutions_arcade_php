@@ -12,6 +12,8 @@ Currently solved:
 
 Currently in repo:
 - Intro Gates
+- At the Crossroads
+- Corner of 0s and 1s
 
 I will shortly add the solutions of the other tasks and when I got time solve the next tasks.
 
